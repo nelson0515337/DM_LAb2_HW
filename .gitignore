@@ -2,3 +2,4 @@
 *.txt
 DM_KAGGLE/tweets_DM.json
 *.csv
+*.bin
